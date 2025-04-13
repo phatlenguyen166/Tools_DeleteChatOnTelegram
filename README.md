@@ -22,44 +22,32 @@ Before running this tool, make sure you have the following:
 
 1.**Clone the repository:**
 
-    ```bash
     git clone https://github.com/phatlenguyen166/Tools_DeleteChatOnTelegram.git
     cd Tools_DeleteChatOnTelegram
-    ```
 
 2.**Create a virtual environment:**
 
     For Windows:
 
-    ```bash
     python -m venv venv
-    ```
 
     For macOS/Linux:
 
-    ```bash
     python3 -m venv venv
-    ```
 
 3.**Activate the virtual environment**:
 
     For Windows:
 
-    ```bash
     .\venv\Scripts\activate
-    ```
 
     For macOS/Linux:
-
-    ```bash
+    
     source venv/bin/activate
-    ```
 
 4.**Install the dependencies:**:
 
-    ```bash
     pip install -r requirements.txt
-    ```
 
 5.**Set up environment variables:**:
 
@@ -71,7 +59,5 @@ Before running this tool, make sure you have the following:
 ## Usage
 
 1.**Run the main script:**:
-
-    ```bash
+   
     python main.py
-    ```
